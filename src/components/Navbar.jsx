@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="top-nav">
       <Link to="/dashboard" className="brand">
         <span className="brand-mark">E</span>
-        Employee Hub
+        Employee Management System
       </Link>
 
       {user ? (
